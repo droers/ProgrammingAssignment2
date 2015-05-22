@@ -1,4 +1,4 @@
-## Programming Assignment 2
+## Programming Assignment 2 
 ## Returns inverse of an invertible matrix, using a cached version if available
 
 makeCacheMatrix <- function(x = matrix()) {
